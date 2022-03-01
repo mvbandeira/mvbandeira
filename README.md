@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mvbandeira
+- 👋 Hi, I’m Maria Vitória
 - 💞️ I’m a Design student
 - 🌱 I'm currently learning Swift and Python
 
