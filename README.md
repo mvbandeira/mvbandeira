@@ -1,6 +1,13 @@
-- 👋 Hi, I’m Maria Vitória
-- 💞️ I’m a Design student
-- 🌱 I'm currently learning Swift and Python
+### Hi there, I’m Maria 👋
+
+#### I'm a Design student at UFPE and iOS Development Student at Apple Developer Academy, in Brazil.
+
+##### BIO
+
+- 🔭 I'm currently working on personal projects at ADA
+- 🌱 Currently learning Swift by SwiftUI and UIKit
+- 💬 Let's talk about `design`, `user experience`, `swift`
+- 📫 Reach me: [linkedin.com/mvbandeira](https://www.linkedin.com/in/mvbandeira/)
 
 ##
 
